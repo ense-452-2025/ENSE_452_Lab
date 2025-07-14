@@ -1,0 +1,40 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #02500e;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.lecture-list {
+    list-style: none;
+    padding: 0;
+}
+
+.lecture-list li {
+    margin: 10px 0;
+}
+
+.lecture-list a {
+    text-decoration: none;
+    color: #004080;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #e0e0e0;
+    text-align: center;
+    padding: 10px;
+}
