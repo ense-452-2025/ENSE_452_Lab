@@ -1,13 +1,33 @@
-## ENSE 452 - Embedded and Real-Time Software Systems - Laboratory
+---
+marp: true
+theme: default
+paginate: true
+title: Git Tutorial
+author: Trevor Douglas
+---
+
+# ENSE 452
+### Embedded and Real-Time Software Systems - Laboratory
+
+👨‍💻 SSE Lab Instructor: [Trevor Douglas](mailto:trevor.douglas@uregina.ca)
+
+---
 
 # Lab 1: Introduction to the hardware and software tools
 
-### University of Regina
-### Faculty of Engineering and Applied Science - Software Systems Engineering
+## Pre reqs
+What you know.
+- Familiarity with Nucleo-64 Board or the STM32F1X series
+- C/C++
+- Keil µVision
 
-### Lab Instructor: [Trevor Douglas](mailto:trevor.douglas@uregina.ca)
+What possibly is new?
+- Git /GitHub
+- RTOS
+- Real time requirements
 
-## Background
+---
+
 
 Many documents are available on urcourses, under Class Resources in the ARM STMicro Docs folder.  Some of the most useful are listed below. There may be updated versions of these documents available online, which you are welcome to substitute.
 

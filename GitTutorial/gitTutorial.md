@@ -7,8 +7,11 @@ author: Trevor Douglas
 ---
 
 # 🚀 Git Tutorial  
-### Learn Version Control with Git and VS Code  
-👨‍💻 Presented using Marp
+### Learn Version Control with Git, VS Code & GitHub  
+
+👨‍💻 
+Trevor Douglas
+SSE Lab Instructor
 
 ---
 
@@ -18,6 +21,10 @@ author: Trevor Douglas
 - Tracks **changes in files**
 - Helps you **collaborate** on code
 - Commonly used with **GitHub**
+
+---
+
+<img src="res/FinalDoc.png" style="display: block; margin: 0 auto;" width="450px" />
 
 ---
 
@@ -71,6 +78,10 @@ git commit -m "Initial commit"
 
 git commit -am "Initial commit"
 ```
+---
+
+<img src="res/GitGithub.jpg" style="display: block; margin: 0 auto;" width="900px" />
+
 ---
 
 ## 🔄 Using a Remote Repository
@@ -189,4 +200,4 @@ node_modules/
 ✅ Revert with confidence  
 ✅ Publish to GitHub
 
----
+
